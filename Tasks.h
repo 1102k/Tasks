@@ -1,6 +1,6 @@
 #ifndef __TASKS_H__
 #define __TASKS_H__
-#include "heads.h"
+#include "stdint.h"
 
 #define MAX_TASK_NUMBER 10
 #define TaskId(n)   (n + 1)
